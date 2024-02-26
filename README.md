@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @advaith44 
 - 👀 I’m interested in everything about data and how we interpret it
-- 🌱 I’m currently learning new softwares with regards to Data Analytics/Data Science
+- 🌱 I’m always eager to learn new thinigs with regars to data analytics/science, but if you know a random fun fact, you're always welcome.
 - 📫 You can reach out to me on LinkedIn but you're always welcome to look me up on social media
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've been to 30+ countries and I aim to reach a 100 in the next couple of years
